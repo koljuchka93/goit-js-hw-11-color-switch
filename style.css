@@ -1,0 +1,22 @@
+button {
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+  border: 0;
+  background-color: #301224;
+  color: #ffffff;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 24px;
+  border-radius: 5px;
+  left: 50vw;
+  transform: translate(-50%, 0);
+  margin-bottom: 20px;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  left: auto;
+}
